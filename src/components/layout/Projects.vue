@@ -65,6 +65,14 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/movieList',
     },
     {
+        title: 'MY PORTOFOLIO',
+        description: 'This is a portfolio page.',
+        image: 'portfolio.png',
+        tags: ['VUE', 'HTML', 'TAILWIND', 'CSS'],
+        liveLink: 'https://chukwuka-zeta.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/myPortfolio',
+    },
+    {
         title: 'CBT INTERFACE',
         description: 'This is a CBT (Computer Based Test) project that grades the user.',
         image: 'cbt.png',
@@ -79,6 +87,14 @@ const projects = ref([
         tags: ['HTML', 'CSS', 'VUE', 'JavaScript'],
         liveLink: 'https://chuks-store.netlify.app/',
         codeLink: 'https://github.com/Chuks3/online-store',
+    },
+    {
+        title: 'NINJA BIKES',
+        description: 'This is a design of a catalog for sport bikes sold from Kawasaki company',
+        image: 'ninja.png',
+        tags: ['FIGMA'],
+        liveLink: 'https://www.figma.com/proto/zJVDCIDF7NPZdsarNLSz1o?node-id=0-1&t=xyNrpOoOdfb9XHMx-6',
+        codeLink: '#',
     },
     {
         title: 'TO-DO LIST',
