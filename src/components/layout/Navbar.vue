@@ -1,7 +1,7 @@
 <template>
     <header>
         <div class="flex justify-between items-center p-8 lg:px-12 relative z-20">
-            <div class="text-3xl font-bold dark:text-white"><img src="@/assets/images/logo.png" alt="logo" class="h-[100px] w-[100px] relative z-[1]" /></div>
+            <div class="text-3xl font-bold dark:text-white"><img src="@/assets/images/logo.png" alt="logo" class="h-[100px] w-[100px] rounded-full relative z-[1]" /></div>
 
             <!-- Mobile Toggle Button -->
             <div class="md:hidden z-30">

@@ -7,7 +7,7 @@
             </div>
         </div>
         <div
-            class="relative w-[156px] h-[45px] flex justify-center rounded-full bg-secondary text-primary border border-primary">
+            class="relative w-[150px] h-[40px] flex justify-center items-center rounded-full bg-secondary text-primary border border-primary">
             {{ label }}
         </div>
     </button>

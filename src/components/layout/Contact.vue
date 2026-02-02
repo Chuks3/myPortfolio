@@ -12,16 +12,16 @@
 
                     <div class="mt-2 flex justify-center space-x-3 md:space-x-8">
                         <a href="https://www.linkedin.com/in/chukwuka-onyekamike-b8206022b"
-                            class="text-gray-600 hover:text-blue-700">
+                            class="text-white hover:text-blue-700">
                             <Icon icon="fa-brands:linkedin" style="font-size: 2rem" />
                         </a>
-                        <a href="https://github.com/chuks3" class="text-gray-600 hover:text-white">
+                        <a href="https://github.com/chuks3" class="text-white hover:text-black">
                             <Icon icon="fa-brands:github" style="font-size: 2rem" />
                         </a>
-                        <a href="https://wa.me/+2349121672722" class="text-gray-600 hover:text-green-500">
+                        <a href="https://wa.me/+2349121672722" class="text-white hover:text-green-500">
                             <Icon icon="fa-brands:whatsapp" style="font-size: 2rem" />
                         </a>
-                        <a href="https://www.instagram.com/onyekams/" class="text-gray-600 hover:text-orange-500">
+                        <a href="https://www.instagram.com/onyekams/" class="text-white hover:text-orange-500">
                             <Icon icon="fa-brands:instagram" style="font-size: 2rem" />
                         </a>
                     </div>

@@ -73,12 +73,12 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/myPortfolio',
     },
     {
-        title: 'CBT INTERFACE',
-        description: 'This is a CBT (Computer Based Test) project that grades the user.',
-        image: 'cbt.png',
-        tags: ['HTML', 'CSS', 'VUE'],
-        liveLink: 'https://cbt-interface.vercel.app/',
-        codeLink: 'https://github.com/Chuks3/cbt-interface',
+        title: 'DASHBOARD',
+        description: 'This is a project showing the dashboard to the admin of a computer accessories store.',
+        image: 'dashboard.png',
+        tags: ['NEXT.JS', 'CSS', 'TAILWIND', 'REACT'],
+        liveLink: 'https://dashboard-kappa-sage.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/Dashboard',
     },
     {
         title: 'ONLINE STORE',
@@ -87,6 +87,14 @@ const projects = ref([
         tags: ['HTML', 'CSS', 'VUE', 'JavaScript'],
         liveLink: 'https://chuks-store.netlify.app/',
         codeLink: 'https://github.com/Chuks3/online-store',
+    },
+    {
+        title: 'CBT INTERFACE',
+        description: 'This is a CBT (Computer Based Test) project that grades the user.',
+        image: 'cbt.png',
+        tags: ['HTML', 'CSS', 'VUE'],
+        liveLink: 'https://cbt-interface.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/cbt-interface',
     },
     {
         title: 'NINJA BIKES',
@@ -127,6 +135,14 @@ const projects = ref([
         tags: ['HTML', 'CSS', 'VUE'],
         liveLink: 'https://promptearn.netlify.app/',
         codeLink: 'https://github.com/Chuks3/fake-store',
+    },
+    {
+        title: 'CARTOLINKS',
+        description: 'A pixel-perfect Next.js app with dark/light mode, built for the Cartolinks Solutions internship assignment.',
+        image: 'cartolinks.png',
+        tags: ['HTML', 'TAILWIND', 'NEXTJS'],
+        liveLink: 'https://cartolinks-psi.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/cartolinks',
     },
 ])
 </script>

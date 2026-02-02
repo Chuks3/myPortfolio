@@ -8,9 +8,9 @@
         <!-- Content Section -->
         <section class="px-6 py-4">
             <header>
-                <h3 class="font-bold text-xl mb-2 text-white">{{ title }}</h3>
+                <h3 class="font-bold text-xl text-center mb-2 text-white">{{ title }}</h3>
             </header>
-            <p class="text-gray-300 text-sm">{{ description }}</p>
+            <p class="text-gray-300 text-center text-sm">{{ description }}</p>
         </section>
 
         <!-- Tags Section -->
