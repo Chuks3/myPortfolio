@@ -65,20 +65,20 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/movieList',
     },
     {
-        title: 'MY PORTOFOLIO',
-        description: 'This is a portfolio page.',
-        image: 'portfolio.png',
-        tags: ['VUE', 'HTML', 'TAILWIND', 'CSS'],
-        liveLink: 'https://chukwuka-zeta.vercel.app/',
-        codeLink: 'https://github.com/Chuks3/myPortfolio',
-    },
-    {
         title: 'DASHBOARD',
         description: 'This is a project showing the dashboard to the admin of a computer accessories store.',
         image: 'dashboard.png',
         tags: ['NEXT.JS', 'CSS', 'TAILWIND', 'REACT'],
         liveLink: 'https://dashboard-kappa-sage.vercel.app/',
         codeLink: 'https://github.com/Chuks3/Dashboard',
+    },
+    {
+        title: 'MY PORTOFOLIO',
+        description: 'This is a portfolio page.',
+        image: 'portfolio.png',
+        tags: ['VUE', 'HTML', 'TAILWIND', 'CSS'],
+        liveLink: 'https://chukwuka-zeta.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/myPortfolio',
     },
     {
         title: 'ONLINE STORE',
@@ -129,6 +129,14 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/fake-store',
     },
     {
+        title: 'CARTOLINKS',
+        description: 'A pixel-perfect Next.js app with dark/light mode, built for the Cartolinks Solutions internship assignment.',
+        image: 'cartolinks.png',
+        tags: ['HTML', 'TAILWIND', 'NEXTJS'],
+        liveLink: 'https://cartolinks-psi.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/cartolinks',
+    },
+    {
         title: 'PROMPT EARN',
         description: 'An affiliate group that gives you valuable products and make it easy for you to get paid promoting them from anywhere in the world.',
         image: 'promptEarn.png',
@@ -137,12 +145,12 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/fake-store',
     },
     {
-        title: 'CARTOLINKS',
-        description: 'A pixel-perfect Next.js app with dark/light mode, built for the Cartolinks Solutions internship assignment.',
-        image: 'cartolinks.png',
-        tags: ['HTML', 'TAILWIND', 'NEXTJS'],
-        liveLink: 'https://cartolinks-psi.vercel.app/',
-        codeLink: 'https://github.com/Chuks3/cartolinks',
+        title: 'EXPENSE TRACKER',
+        description: 'An expense tracker application from scratch using Vue.js and the composition API with the latest syntax.',
+        image: 'vueExpenseTracker.png',
+        tags: ['HTML', 'CSS', 'VUE', 'JAVASCRIPT'],
+        liveLink: 'https://vue-expense-tracker-zeta.vercel.app/',
+        codeLink: 'https://github.com/Chuks3/vueExpenseTracker',
     },
 ])
 </script>
