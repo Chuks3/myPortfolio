@@ -30,7 +30,8 @@
 import { ref } from 'vue';
 
 const experience = ref([
-    { duration: 'September 2018 - Present', title: 'IT Intern', company: 'God With Me Plastics' },
-    { duration: 'August 2023 - Present', title: 'Frontend Developer', company: 'Freelancer' },
+    { duration: 'September 2018 - September 2021', title: 'IT Intern', company: 'God With Me Plastics' },
+    { duration: 'August 2023 - Present', title: 'Frontend Developer', company: 'God With Me Plastics' },
+    { duration: 'January 2024 - Present', title: 'Frontend Developer', company: 'Freelance' },
 ])
 </script>

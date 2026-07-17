@@ -27,7 +27,7 @@ const numbers = ref([
   { id: 1, number: 20, title: 'Created projects' },
   // { id: 2, number: 30, title: 'Personal projects' },
   { id: 3, number: 50, title: 'Happy clients' },
-  { id: 4, number: 5, title: 'Years' },
+  { id: 4, number: 6, title: 'Years' },
 ]);
 
 const statsSection = ref(null);

@@ -41,7 +41,7 @@ const services = ref([
         id: 2,
         icon: 'https://img.icons8.com/ios-filled/100/daedla/windows10-personalization.png',
         name: 'UI/UX Design',
-        description: 'I create digital experiences that are not only beautiful but also intuitive. My focus is on making sure every button, every page, and every interaction feels just right. The goal is to build something people love to use simple, clear, and effective',
+        description: 'I create digital experiences that are not only beautiful but also intuitive. My focus is on making sure every button, every page, and every interaction feels just right. The goal is to build something people love to use simple, clear, and effective.',
     },
     {
         id: 3,

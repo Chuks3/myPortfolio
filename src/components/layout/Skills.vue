@@ -60,7 +60,7 @@ const skills = ref([
   },
   {
     percentage: 50,
-    title: 'C language',
+    title: 'C Language',
     bgGradient: 'to-[#ff9a0099] from-[#1f1e1c99]',
     textColor: '#ff9a00'
   },
@@ -78,7 +78,7 @@ const skills = ref([
   },
   {
     percentage: 40,
-    title: 'Wordpress',
+    title: 'WordPress',
     bgGradient: 'to-[#00a9ff99] from-[#1f1e1c99]',
     textColor: '#00a9ff'
   },

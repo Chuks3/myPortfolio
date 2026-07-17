@@ -1,6 +1,6 @@
 <template>
     <section id="projects" class="relative w-11/12 px-16 mx-auto">
-        <SectionHeader title="My Projects" />
+        <SectionHeader title="Projects" />
 
         <!-- Custom Navigation Button -->
         <button
@@ -73,7 +73,7 @@ const projects = ref([
         codeLink: 'https://github.com/Chuks3/Dashboard',
     },
     {
-        title: 'MY PORTOFOLIO',
+        title: 'MY PORTFOLIO',
         description: 'This is a portfolio page.',
         image: 'portfolio.png',
         tags: ['VUE', 'HTML', 'TAILWIND', 'CSS'],
@@ -142,7 +142,7 @@ const projects = ref([
         image: 'promptEarn.png',
         tags: ['HTML', 'CSS', 'VUE'],
         liveLink: 'https://promptearn.netlify.app/',
-        codeLink: 'https://github.com/Chuks3/fake-store',
+        codeLink: 'https://github.com/Chuks3/promptEarn',
     },
     {
         title: 'EXPENSE TRACKER',
