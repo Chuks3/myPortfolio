@@ -25,10 +25,8 @@
 
         <!-- Actions Section -->
         <div class="px-6 pb-4 flex justify-between items-center">
-            <a :href="liveLink" v-if="liveLink" class="text-secondary font-semibold hover:underline text-sm">Live
-                Demo</a>
-            <a :href="codeLink" v-if="codeLink" class="text-secondary font-semibold hover:underline text-sm">View
-                Code</a>
+            <a :href="liveLink" v-if="liveLink" class="text-secondary font-semibold hover:underline text-sm">Live Demo</a>
+            <a :href="codeLink" v-if="codeLink" class="text-secondary font-semibold hover:underline text-sm">View Code</a>
         </div>
     </article>
 </template>

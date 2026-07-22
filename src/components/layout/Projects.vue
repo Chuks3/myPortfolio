@@ -102,7 +102,7 @@ const projects = ref([
         image: 'ninja.png',
         tags: ['FIGMA'],
         liveLink: 'https://www.figma.com/proto/zJVDCIDF7NPZdsarNLSz1o?node-id=0-1&t=xyNrpOoOdfb9XHMx-6',
-        codeLink: '#',
+        codeLink: '',
     },
     {
         title: 'TO-DO LIST',
